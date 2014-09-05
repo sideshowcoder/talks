@@ -26,3 +26,8 @@ integration of C in node.js works and how to "read" a package like Couchnode.
 - Couchnode basics
 - node.js C external function calls
 - Wrapping a C library in node.js
+
+### Recordings
+
+- [LNUG Recording](https://www.youtube.com/watch?v=-ISX_4peEKY&feature=youtu.be)
+

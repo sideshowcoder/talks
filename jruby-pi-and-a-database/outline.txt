@@ -1,0 +1,42 @@
+40 min + 5 min questions
+
+- What is jRuby 5 min
+  - it is just ruby
+
+- What is Couchbase Mobile 5 min
+
+- Building an application with jRuby and Couchbase 5 min
+  - Why jRuby - because Java creates so much overhead
+  - the app what does it do
+
+- Walk through the code and explain using jRuby 15 min
+  - loading jar files
+  - calling out to java
+  - How to use some common java idoms
+    - naming
+      - CamelCase to snail_case mapping
+    - setter and getter
+      - mapping to = and .getter
+      - but not always :(
+    - annonymus classes with override
+      - instantiante and add method
+      - create a class which implements the interface
+
+- Looking under the hood 10 min
+  - bridging the gap between jruby and java
+    https://www.ruby-forum.com/topic/4410022
+  - classes are implemented in Java
+  - createing a "to_foo" method which just returns "foo" for every call
+      - mvn
+      - mvn -Pboostrap
+      - bin/jruby test/mri/ruby/test_fixnum.rb -n test_succ # as a sample test
+      - create a test for our to_foo method in test_fixnum.rb
+      - implement to_foo in RubyFixnum.java
+        - @JRubyMethod annotation to expose it to the world
+        - create new ruby objects in a given runtime
+          - getRuntime().newString(...) to create a ruby string
+      - mvn compile
+      - bin/jruby test/mri/ruby/test_fixnum.rb -n test_to_foo # as a sample test
+      - bin/jruby -e "puts 1.to_foo"
+
+
