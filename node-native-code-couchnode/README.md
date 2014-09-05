@@ -16,10 +16,13 @@ which already is established around "the web" but also that it provides
 excellent facilities for extensions, not only via JavaScript but also
 integration of native C libraries.
 Couchbase makes a lot of use of this fact making the Couchbase node.js SDK
-(Couchnode) a wrapper around the C library providing a node.js like API, but
-leveraging the power of a native C library underneat.
-So how is this done? How does such a package look like? Let me show you how
-integration of C in node.js works and how to "read" a package like Couchnode.
+[Couchnode](github.com/couchbase/couchnode) a wrapper around the C library
+providing a node.js like API, but leveraging the power of a native C library
+underneath.
+So how is this done?  What does such a package look like, and how do you go
+about writing one? This talk walks through creating C extensions for node by
+example, with live coding goodness.
+
 
 ### Topics
 

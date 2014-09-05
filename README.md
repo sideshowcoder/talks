@@ -36,9 +36,7 @@ the "right tool" or the "most fun tool" for the job. He now works at Couchbase
 where he explores the ins and outs of NoSQL as a Developer Advocate.
 
 ![Me](https://www.dropbox.com/s/t4d0toyne5u2tvz/phil_new.jpg =250x)
-
-![Me2](https://www.dropbox.com/s/jvzgeo58n1ecjfw/me_2.jpg =250x)
-
+![Me Casual](https://www.dropbox.com/s/pxqa4ev51dkr9n8/me_2_480x640.jpeg =250x)
 
 License
 -------
