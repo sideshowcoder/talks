@@ -15,6 +15,7 @@ Currently contained talks
 - Native code in node.js: An introduction to Couchnode
 - Fullstack JavaScript: node.js + AngularJS + Couchbase
 - You got schema in my JSON!
+- IntelliFridge and the Database of Things
 
 Feel free to browse and contact me if you see anything interesting, or any
 mistakes which need to be corrected.
