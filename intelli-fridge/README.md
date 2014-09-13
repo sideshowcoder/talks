@@ -17,6 +17,8 @@ show how Couchbase Mobile, a 500 Kb library for Android, iOS, Windows Phone and
 the JVM, lets us build an app that syncs to and from our fridge to a shopping
 list app on mobile devices. Take that major fridge manufacturers!
 
+Find the code: https://github.com/sideshowcoder/intelli_fridge
+
 ### Topics
 
 - Introduction to Couchbase
