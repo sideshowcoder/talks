@@ -10,6 +10,7 @@ Duration: 30 min
 - NoSQL User group Cologne - 2.7.2014
 - require('lx') - 14.8.2014
 - LNUG - 27.8.2014
+- Berlin Couchbase UG - 18.9.2014
 
 ### Abstract
 Couchbase is a NoSQL document store with lightning fast access times, node.js is
