@@ -6,6 +6,7 @@ Duration: 45 min
 ### Presented
 
 - TNG Tech Day - 25.9.2014
+- Open Slava - 17.10.2014
 
 ### Abstract
 
