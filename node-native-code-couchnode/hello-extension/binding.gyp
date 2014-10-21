@@ -1,14 +1,6 @@
-
-
-
-
-
-
 {
-"targets": [
-  {
-  "target_name": "hello",
-  "sources": ["hello.cc"]
-  }
-]
+  "targets": [{
+    "target_name": "hello",
+    "sources": ["hello.cc"]
+  }]
 }
