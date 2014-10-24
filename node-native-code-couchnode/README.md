@@ -7,6 +7,7 @@ Duration: 30 min
 
 - LNUG - 27.8.2014
 - MNUG - 24.9.2014
+- Fullstack Conference - 23.10.2014
 
 ### Abstract
 
@@ -33,4 +34,5 @@ example, with live coding goodness.
 ### Recordings
 
 - [LNUG Recording](https://www.youtube.com/watch?v=-ISX_4peEKY&feature=youtu.be)
+- [Fullstack Recording](https://skillsmatter.com/skillscasts/5770-native-code-in-node-js-by-example-of-couchnode)
 
