@@ -16,6 +16,7 @@ Currently contained talks
 - Fullstack JavaScript: node.js + AngularJS + Couchbase
 - You got schema in my JSON!
 - IntelliFridge and the Database of Things
+- Intro to Rack
 - Intro to Circuitbox
 
 Feel free to browse and contact me if you see anything interesting, or any
