@@ -33,19 +33,12 @@ Traveling through the world of Scheme, C/C++, Ruby and JavaScript Phil enjoys
 all kinds programming and the respective communities. He is writing both
 [code](https://github.com/sideshowcoder) and
 [words](http://sideshowcoder.com) as sideshowcoder, and keeps talking about TDD,
-<<<<<<< HEAD
-NoSQL and the software development process in general. Over the last few years
-he had the chance to work with and grow systems on the latest and greatest
-technologies. He saw them succeed, fail, and the tech being the "wrong tool",
-the "right tool" or the "most fun tool" for the job. He now works at
-~~Couchbase where he explores the ins and outs of NoSQL as a Developer~~
-~~Advocate~~ Yammer making the world a better place by building backends using
-Ruby and Java.
-=======
-NoSQL and the software development process in general. After traveling the world 
-as a Developer Advocate at Couchbase, he now found a home working on the 
-[Yammer](https://yammer.com) backend
->>>>>>> 00cf16a5697a38c67bba6b638ad879a948e11506
+NoSQL and the software development process in general. After traveling the world
+as a Developer Advocate at Couchbase, he now found a home working on the
+[Yammer](https://yammer.com) backend writing Ruby and Java to make the world a
+better place. He also likes cats... 
+
+![Cat Person](http://c1.staticflickr.com/9/8763/17056381468_b363f5b70f_n.jpg)
 
 ![Me](http://www.gravatar.com/avatar/5cde19029032f151ca09687f7c8783eb?s=250)
 
