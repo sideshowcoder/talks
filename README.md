@@ -16,6 +16,7 @@ Currently contained talks
 - Fullstack JavaScript: node.js + AngularJS + Couchbase
 - You got schema in my JSON!
 - IntelliFridge and the Database of Things
+- Intro to Circuitbox
 
 Feel free to browse and contact me if you see anything interesting, or any
 mistakes which need to be corrected.
@@ -23,7 +24,7 @@ mistakes which need to be corrected.
 Bio
 ---
 ### Short
-Web-backend developer, Ex-Consultant, Developer Advocate at Couchbase
+Software engineer at Yammer, Ex-Consultant, Ex-Couchbase
 
 ### Long
 Traveling through the world of Scheme, C/C++, Ruby and JavaScript Phil enjoys
@@ -33,8 +34,10 @@ all kinds programming and the respective communities. He is writing both
 NoSQL and the software development process in general. Over the last few years
 he had the chance to work with and grow systems on the latest and greatest
 technologies. He saw them succeed, fail, and the tech being the "wrong tool",
-the "right tool" or the "most fun tool" for the job. He now works at Couchbase
-where he explores the ins and outs of NoSQL as a Developer Advocate.
+the "right tool" or the "most fun tool" for the job. He now works at
+~~Couchbase where he explores the ins and outs of NoSQL as a Developer~~
+~~Advocate~~ Yammer making the world a better place by building backends using
+Ruby and Java.
 
 ![Me](http://www.gravatar.com/avatar/5cde19029032f151ca09687f7c8783eb?s=250)
 
