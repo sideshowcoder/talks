@@ -1,0 +1,6 @@
+Downloadable sandbox
+
+Let everybody play with your API without much setup
+
+    $ git clone MYAPIMOCK
+    $ canned MYAPIMOCK

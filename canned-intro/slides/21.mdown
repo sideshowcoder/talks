@@ -1,0 +1,5 @@
+Explorability
+
+    $ tree MYAPIMOCK
+    MYAPIMOCK
+    └── index.get.json

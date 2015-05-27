@@ -1,0 +1,5 @@
+`$ tree` represents the API
+
+    $ tree ./example_1
+    example_1
+    └── index.get.json

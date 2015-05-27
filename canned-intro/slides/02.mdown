@@ -1,0 +1,3 @@
+The idea behind canned
+
+In Unix everything is a file, so lets use files to serve HTTP requests.

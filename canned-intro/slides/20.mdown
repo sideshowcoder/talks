@@ -1,0 +1,5 @@
+Mock responses
+
+Understandable format without knowledge of node / JavaScript / framework XYZ
+
+Wiremock? racktest? anyone?

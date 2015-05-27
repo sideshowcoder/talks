@@ -1,0 +1,11 @@
+//! statusCode: 201
+//! body: {"talk": "Mocking with Canned"}
+{
+  "comment": "Good title!"
+}
+
+//! statusCode: 400
+//! body: {"talk": ""}
+{
+  "error": "title cannot be empty"
+}

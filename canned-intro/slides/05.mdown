@@ -1,0 +1,4 @@
+Let me show you
+
+    $ canned ./example_1 &
+    $ curl 127.0.0.1:3000

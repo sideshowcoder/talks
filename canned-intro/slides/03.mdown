@@ -1,0 +1,3 @@
+So a static file server?
+
+That is the idea! But to use this for a complete API some extensions are needed.

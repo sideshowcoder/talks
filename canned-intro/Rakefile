@@ -1,0 +1,20 @@
+require "fileutils"
+
+desc "Regenerate slides in ./slides to be viewable viewable via thor cdeck:present ./slides"
+task :slides do
+  FileUtils.remove_dir "./slides", force: true
+  FileUtils.mkdir "./slides" rescue nil
+  markdown = File.read "README.md"
+  split_into_slides(markdown).each_with_index do |content, index|
+    File.open("./slides/%02d.mdown" % (index + 1), "w") do |file|
+      file.write content
+    end
+  end
+end
+
+def split_into_slides markdown
+  slides = markdown.split(/^#\s/)
+  slides.shift
+  slides.map(&:strip)
+end
+

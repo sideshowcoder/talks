@@ -18,6 +18,7 @@ Currently contained talks
 - IntelliFridge and the Database of Things
 - Intro to Rack
 - Intro to Circuitbox
+- Intro to Canned
 
 Feel free to browse and contact me if you see anything interesting, or any
 mistakes which need to be corrected.

@@ -1,0 +1,4 @@
+Get started
+
+https://github.com/sideshowcoder/canned
+Look at the README and the specs

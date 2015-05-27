@@ -1,0 +1,5 @@
+Sending all the things!
+
+- Send custom headers
+- CORS support
+- Custom content types

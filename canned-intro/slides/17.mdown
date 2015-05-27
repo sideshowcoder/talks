@@ -1,0 +1,5 @@
+Why did I build this?
+
+APIs being developed get input from the consumers to late
+
+Developers can work on the API togehter!

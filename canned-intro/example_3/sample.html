@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script>
+      $(document).ready(function () {
+
+          $("form#talk-form").bind("submit", function(event) {
+            event.preventDefault()
+
+            var json = {}
+            $(this).serializeArray().map(function (x) { json[x.name] = x.value })
+
+            $.ajax({
+              type: "post",
+              url: "http://localhost:3000/talk",
+              data: json,
+              dataType: "json",
+              success: function (data) {
+                $("#flash").html(data.comment)
+              },
+              error: function (jqxhr) {
+                $("#flash").html(JSON.parse(jqxhr.responseText).error)
+              }
+            })
+            return true
+          })
+      })
+    </script>
+
+  </head>
+  <body>
+    <h1>Create a talk</h1>
+    <div id="flash"></div>
+    <form id="talk-form">
+      <label for="talk">Title: </label>
+      <input type="text" name="talk"><br>
+      <input type="submit" value="Submit talk"><br>
+    </form>
+  </body>
+</html>

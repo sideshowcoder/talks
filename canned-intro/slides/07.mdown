@@ -1,0 +1,8 @@
+There is more to an API, not everything is 200
+
+    $ curl -v 127.0.0.1:3000
+    ...
+    < HTTP/1.1 200 OK
+    ...
+
+    :(

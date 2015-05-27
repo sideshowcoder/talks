@@ -1,0 +1,6 @@
+Server mocking with canned
+
+https://github.com/sideshowcoder/canned
+
+Philipp Fehre (http://sideshowcoder.com)
+Software Engineer @ Yammer

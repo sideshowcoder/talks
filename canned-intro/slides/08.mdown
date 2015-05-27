@@ -1,0 +1,9 @@
+Custom response codes
+
+    $ canned ./example_2 &
+    $ curl -v -XPOST 127.0.0.1:3000
+    ...
+    < HTTP/1.1 201 OK
+    ...
+
+    :)

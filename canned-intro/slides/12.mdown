@@ -1,0 +1,5 @@
+Lets build something
+
+    $ open example_3/sample.html
+    $ tree example_3
+    $ canned example_3
