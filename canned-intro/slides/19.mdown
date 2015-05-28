@@ -1,6 +1,5 @@
-Downloadable sandbox
+Decouple testing
 
-Let everybody play with your API without much setup
+comparing results against expected results is simple based on files
 
-    $ git clone MYAPIMOCK
-    $ canned MYAPIMOCK
+    $ diff `curl http://mybackend/todo/1` ./todo-api/todo/_1.get.json

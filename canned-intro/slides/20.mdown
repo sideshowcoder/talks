@@ -1,5 +1,6 @@
-Mock responses
+Downloadable sandbox
 
-Understandable format without knowledge of node / JavaScript / framework XYZ
+Let everybody play with your API without much setup
 
-Wiremock? racktest? anyone?
+    $ git clone MYAPIMOCK
+    $ canned MYAPIMOCK

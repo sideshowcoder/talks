@@ -97,11 +97,24 @@ APIs being developed get input from the consumers to late
 
 Developers can work on the API togehter!
 
+# Storytime!
+
+            ,-----.
+            W/,-. ,-.\W
+            ()>a   a<()
+            (.--(_)--.)
+          ,'/.-'\_/`-.\`.
+        ,' /    `-'    \ `.
+       /   \           /   \
+      /     `.       ,'     \
+     /    /   `-._.-'   \    \
+   ,-`-._/|     |=|o    |\_.-<
+
 # Decouple testing
 
 comparing results against expected results is simple based on files
 
-    $ diff curl http://mybackend/todo/1 ./todo-api/todo/_1.get.json
+    $ diff `curl http://mybackend/todo/1` ./todo-api/todo/_1.get.json
 
 # Downloadable sandbox
 

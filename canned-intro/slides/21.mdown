@@ -1,5 +1,5 @@
-Explorability
+Mock responses
 
-    $ tree MYAPIMOCK
-    MYAPIMOCK
-    └── index.get.json
+Understandable format without knowledge of node / JavaScript / framework XYZ
+
+Wiremock? racktest? anyone?

@@ -1,5 +1,12 @@
-Decouple testing
+Storytime!
 
-comparing results against expected results is simple based on files
-
-    $ diff curl http://mybackend/todo/1 ./todo-api/todo/_1.get.json
+            ,-----.
+            W/,-. ,-.\W
+            ()>a   a<()
+            (.--(_)--.)
+          ,'/.-'\_/`-.\`.
+        ,' /    `-'    \ `.
+       /   \           /   \
+      /     `.       ,'     \
+     /    /   `-._.-'   \    \
+   ,-`-._/|     |=|o    |\_.-<
