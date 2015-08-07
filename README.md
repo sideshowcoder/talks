@@ -27,7 +27,7 @@ Bio
 ---
 ### Short
 
-Software engineer at Yammer, Ex-Consultant, Ex-Couchbase
+Software engineer at Microsoft working on the Yammer backend systems.
 
 ### Long
 Traveling through the world of Scheme, C/C++, Ruby and JavaScript Phil enjoys
