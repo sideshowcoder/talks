@@ -27,17 +27,17 @@ Bio
 ---
 ### Short
 
-Software engineer at Microsoft working on the Yammer backend systems.
+Software engineer at Deliveroo, previously Microsoft working on backend system.
 
 ### Long
-Traveling through the world of Scheme, C/C++, Ruby and JavaScript Phil enjoys
-all kinds programming and the respective communities. He is writing both
-[code](https://github.com/sideshowcoder) and
-[words](http://sideshowcoder.com) as sideshowcoder, and keeps talking about TDD,
-NoSQL and the software development process in general. After traveling the world
-as a Developer Advocate at Couchbase, he now found a home working on the
-[Yammer](https://yammer.com) backend writing Ruby and Java to make the world a
-better place. He also likes cats... 
+Exploring the world of distributed systems, and databases Phil enjoys all kind 
+of coding. He is writing both [code](https://github.com/sideshowcoder) and
+[words](http://sideshowcoder.com) as sideshowcoder, as well as the author of 
+[JavaScript Domain - Driven Design](https://www.amazon.co.uk/JavaScript-Domain-Driven-Design-Philipp-Fehre/dp/1784394327),
+and keeps talking about TDD, NoSQL and the software development process in general. 
+After traveling the world as a Developer Advocate at Couchbase, getting hooked
+on metrics at Microsoft/Yammer, he now found a home working on the 
+[Deliveroo](https://deliveroo.co.uk) backend. Oh yeah also cats!
 
 ![Cat Person](http://c1.staticflickr.com/9/8763/17056381468_b363f5b70f_n.jpg)
 
