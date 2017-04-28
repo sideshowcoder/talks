@@ -32,8 +32,8 @@ Software engineer at Deliveroo, previously Microsoft working on backend system.
 ### Long
 Exploring the world of distributed systems, and databases Phil enjoys all kind 
 of coding. He is writing both [code](https://github.com/sideshowcoder) and
-[words](http://sideshowcoder.com) as sideshowcoder, as well as the author of 
-[JavaScript Domain - Driven Design](https://www.amazon.co.uk/JavaScript-Domain-Driven-Design-Philipp-Fehre/dp/1784394327),
+[words](http://sideshowcoder.com) as @sideshowcoder, as well as the author of 
+[JavaScript - Domain Driven Design](https://www.amazon.co.uk/JavaScript-Domain-Driven-Design-Philipp-Fehre/dp/1784394327),
 and keeps talking about TDD, NoSQL and the software development process in general. 
 After traveling the world as a Developer Advocate at Couchbase, getting hooked
 on metrics at Microsoft/Yammer, he now found a home working on the 
